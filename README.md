@@ -12,3 +12,10 @@ https://www.figma.com/file/5D9G7MF5BVqocY9a6F0j8w/AndreA?node-id=0%3A1
  tonywack -  pdf
  tommy hilfiger - pdf
 
+# Develop
+ Frotnend 
+  - Flutter wirh dart
+  
+  
+  ci/cd
+  AWS + Github Actions + Docker ...
