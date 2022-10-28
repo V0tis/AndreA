@@ -2,7 +2,7 @@
 기획부터 UI/UX 그리고 개발까지
 
 # Miro 
-https://miro.com/app/board/uXjVPXCkFKs=/
+https://miro.com/app/board/uXjVPXCkFKs=/?share_link_id=24159886156
 
 
 # Figma
