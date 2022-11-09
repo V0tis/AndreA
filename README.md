@@ -14,7 +14,7 @@ https://www.figma.com/file/5D9G7MF5BVqocY9a6F0j8w/AndreA?node-id=0%3A1
 
 # Develop
  ## Frotnend 
-  - Flutter wirh dart
+  - React-Native
   
  ## ci/cd
   - AWS
